@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed73c7d4-1bb2-4603-b8c0-4e17bc6bc139" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dist/fonts/Outfit-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/fonts/Outfit-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/fonts/Outfit-ExtraBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/fonts/Outfit-ExtraLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/fonts/Outfit-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/fonts/Outfit-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/fonts/Outfit-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/fonts/Outfit-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/fonts/Outfit-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design/mydesktop-design.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design/mymobile-design.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README-template.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +46,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\nft-preview-card-component-main\design" />
       <recent name="C:\xampp\htdocs\nft-preview-card-component-main\dist\fonts" />
     </key>
   </component>
@@ -62,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693830564561</updated>
-      <workItem from="1693830565846" duration="10474000" />
+      <workItem from="1693830565846" duration="11489000" />
     </task>
     <servers />
   </component>
